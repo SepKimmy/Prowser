@@ -1,4 +1,4 @@
-##EDOWSER##
+##SROWSER##
 The editable and programmable web-browser
 
 **Updates**
